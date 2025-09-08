@@ -93,13 +93,13 @@ Add support for actor/director-based search.
 Recommendation engine with machine learning (e.g., collaborative filtering).
 
 👨‍💻 Author
-Developed by [Your Name] as a learning project for Python, Web Scraping, and Content Recommendation Systems.
+Developed by Abhijit Kumar as a learning project for Python, Web Scraping, and Content Recommendation Systems.
 
 yaml
 Copy code
 
 ---
 
-👉 You can directly use this README (replace `[Your Name]` + repo link).  
+👉 You can directly use this README (replace `Abhijit Kumar` + repo link).  
 
 Do you want me to also create a **requirements.txt** for this recommender project (so GitHub users can install easily)?
